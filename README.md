@@ -4,7 +4,7 @@
 RUFFO, V. G. S.. Network Anomaly Detection based on Generative Adversarial Networks. 2023. 100p. Final Project (Bachelor of Science in Computer Science) – State University of Londrina, Londrina, 2023.
 
 ## About
-This is the document representing my college final project (only in PT-BR), a requirement for earning my Bachelor of Science degree. 
+This is the document representing my university final project (only in PT-BR), a requirement for earning my Bachelor of Science degree. 
 
 It is available online on this repository or at the institution [website](https://sites.uel.br/dc/wp-content/uploads/2023/06/TCC_VITOR_GABRIEL_DA_SILVA_RUFFO.pdf).
 
